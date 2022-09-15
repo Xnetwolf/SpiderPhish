@@ -4,7 +4,7 @@ import color as c
 import time
 import sys
 
-Title = "SourcePhish"
+Title = "SpiderPhish"
 intro=f"""Hello today you're going to use a tool, {Title} made by Xnetwolf
 
 {c.yellow}1{c.end}: Understand how to use this tool by watching pictures, videos or reading a pdf
