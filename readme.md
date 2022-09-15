@@ -1,7 +1,7 @@
 ## SpiderPhish
-(https://img.shields.io/badge/code_size-20kb-lightblue)
-(https://img.shields.io/badge/made_with-Python-lightblue)
-(https://img.shields.io/badge/author-Rad_Taren-lightblue)
+![code size 20kb](https://img.shields.io/badge/code_size-20kb-lightblue)
+![made with python](https://img.shields.io/badge/made_with-Python-lightblue)
+![author Rad Taren](https://img.shields.io/badge/author-Rad_Taren-lightblue)
 
 This is an open source phishing made using python and has a more complex style
 instead of if elif else and also instead of having to hardcoded the folders path of html files...
