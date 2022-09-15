@@ -1,5 +1,5 @@
 ## SpiderPhish
-![code size 20kb](https://img.shields.io/badge/code_size-20kb-blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Xnetwolf/SpiderPhish?color=%2300bbff&style=for-the-badge)
 ![made with python](https://img.shields.io/badge/made_with-Python-blue)
 ![author Rad Taren](https://img.shields.io/badge/author-Rad_Taren-blue)
 ## On first launch
