@@ -2,8 +2,12 @@
 ![code size 20kb](https://img.shields.io/badge/code_size-20kb-blue)
 ![made with python](https://img.shields.io/badge/made_with-Python-blue)
 ![author Rad Taren](https://img.shields.io/badge/author-Rad_Taren-blue)
-![Preview](Screenshot_2022-09-14-23-32-48.png)
+## On first launch
+![Preview1](preview1.png)
+## on second launch
+![Preview2](preview2.png)
 
+Note: `files`folder only contains facebook phishing pages while testing it
 This is an open source phishing made using python and has a more complex style
 instead of if elif else and also instead of having to hardcoded the folders path of html files...
 
