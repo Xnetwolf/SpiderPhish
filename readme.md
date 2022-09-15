@@ -1,7 +1,8 @@
 ## SpiderPhish
-![code size 20kb](https://img.shields.io/badge/code_size-20kb-lightblue)
-![made with python](https://img.shields.io/badge/made_with-Python-lightblue)
-![author Rad Taren](https://img.shields.io/badge/author-Rad_Taren-lightblue)
+![code size 20kb](https://img.shields.io/badge/code_size-20kb-blue)
+![made with python](https://img.shields.io/badge/made_with-Python-blue)
+![author Rad Taren](https://img.shields.io/badge/author-Rad_Taren-blue)
+![Preview](picture )
 
 This is an open source phishing made using python and has a more complex style
 instead of if elif else and also instead of having to hardcoded the folders path of html files...
@@ -63,4 +64,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* 
+Used some of his codes
+* https://github.com/princekrvert/Asura
